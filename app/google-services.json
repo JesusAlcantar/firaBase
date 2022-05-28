@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186548450274",
+    "project_id": "fir-alcantar",
+    "storage_bucket": "fir-alcantar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186548450274:android:59d1472db47ce2fe9cffbb",
+        "android_client_info": {
+          "package_name": "com.example.firabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186548450274-m36ss6n3qbbhnllgeslqdui6e40872ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhn3PiilivLpO5Ogy7dcVjGB8GAeA9oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186548450274-m36ss6n3qbbhnllgeslqdui6e40872ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
